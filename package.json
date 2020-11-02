@@ -1,0 +1,22 @@
+{
+  "name": "rbmax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariMax/Rshop.git"
+  },
+  "author": "Serg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariMax/Rshop/issues"
+  },
+  "homepage": "https://github.com/DariMax/Rshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
